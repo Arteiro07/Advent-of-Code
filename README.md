@@ -15,7 +15,7 @@ I also track the time spent solving each part.
 | Day | Completion | Time  |
 | --- | ---------- | ----- |
 | 01  | ✅         | 1h10m |
-| 02  | ⬜         | —     |
+| 02  | ✅         | 3h24m |
 | 03  | ⬜         | —     |
 | 04  | ⬜         | —     |
 | 05  | ⬜         | —     |
