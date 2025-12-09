@@ -17,7 +17,7 @@ I also track the time spent solving each part.
 | 01  | ✅         | 1h10m |
 | 02  | ✅         | 3h24m |
 | 03  | ✅         | 0h49m |
-| 04  | ⬜         | —     |
+| 04  | ✅         | 0h20m |
 | 05  | ⬜         | —     |
 | 06  | ⬜         | —     |
 | 07  | ⬜         | —     |
