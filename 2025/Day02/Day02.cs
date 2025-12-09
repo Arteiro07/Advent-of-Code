@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Day 01 - Part 1: " + part1());
+﻿Console.WriteLine("Day 02 - Part 1: " + part1());
 
 Console.WriteLine("Day 02 - Part 2: " + part2());
 
